@@ -1,0 +1,3 @@
+Very (very) minimal craigslist scraper for apartment listings, mashed up with Google maps.   
+Wrote it in a few days to help me in my apartment search, though remember that it returned better results than other tools that were out at the time (housingmaps.com, and a few others).   
+(Pretty sure its broken now, not sure why (APIs maybe))
